@@ -1,0 +1,9 @@
+Phase,Timing,Workstream,Action,Primary_Owner,Success_Metric,Why_It_Matters
+Phase 1 - Validate,0-3 months,Market validation,Interview target customers in the top two markets and validate willingness to switch suppliers.,Business Development,15+ structured customer interviews,Tests whether desk research matches real buying behaviour.
+Phase 1 - Validate,0-3 months,Competitor intelligence,Create win/loss and competitor feature tracker for priority accounts.,Market Intelligence,Competitor tracker used in weekly commercial review,Makes competitor analysis ongoing rather than one-time.
+Phase 1 - Validate,0-3 months,Commercial model,Confirm target price corridor and minimum contribution margin.,Finance + Sales,Approved pricing guardrails,Prevents growth assumptions from ignoring economics.
+Phase 2 - Pilot,3-6 months,Customer pilot,Run two paid or structured pilots with Tier-1 / charging customers.,Sales + Product,2 pilot customers,Creates evidence before broader market entry.
+Phase 2 - Pilot,3-6 months,Local channel,Evaluate one local technical sales or distribution partner in the second-priority market.,Business Development,1 partner shortlist,Reduces the cost of testing a new market.
+Phase 2 - Pilot,3-6 months,Product fit,"Adapt documentation, certification and integration support to top customer requirements.",Product + Engineering,Pilot readiness checklist complete,Turns market interest into implementable offers.
+Phase 3 - Scale,6-12 months,Key accounts,Build a named-account plan for top OEM/Tier-1/charging prospects.,Sales,20 qualified target accounts,Focuses commercial effort on specific buyers.
+Phase 3 - Scale,6-12 months,Market expansion,Enter the next Tier-1 market only if pilot and pipeline thresholds are met.,Management,Go/no-go based on revenue pipeline and pilot conversion,Avoids expanding into too many markets at once.

@@ -1,0 +1,13 @@
+Country,Scenario,Addressable_Market_2026_EUR_mn,Accessible_Share_Percent,Target_Capture_Rate_Percent,Year_1_Revenue_Potential_EUR_mn,Year_3_Revenue_Potential_EUR_mn,Assumption
+United Kingdom,Conservative,648.9,18.0,1.0,1.17,1.69,Synthetic planning scenario; not a company forecast.
+United Kingdom,Base,648.9,25.0,1.8,2.92,4.96,Synthetic planning scenario; not a company forecast.
+United Kingdom,Upside,648.9,32.0,2.8,5.81,11.63,Synthetic planning scenario; not a company forecast.
+Germany,Conservative,676.7,18.0,1.0,1.22,1.77,Synthetic planning scenario; not a company forecast.
+Germany,Base,676.7,25.0,1.8,3.05,5.18,Synthetic planning scenario; not a company forecast.
+Germany,Upside,676.7,32.0,2.8,6.06,12.13,Synthetic planning scenario; not a company forecast.
+France,Conservative,625.5,18.0,1.0,1.13,1.63,Synthetic planning scenario; not a company forecast.
+France,Base,625.5,25.0,1.8,2.81,4.79,Synthetic planning scenario; not a company forecast.
+France,Upside,625.5,32.0,2.8,5.6,11.21,Synthetic planning scenario; not a company forecast.
+Netherlands,Conservative,313.5,18.0,1.0,0.56,0.82,Synthetic planning scenario; not a company forecast.
+Netherlands,Base,313.5,25.0,1.8,1.41,2.4,Synthetic planning scenario; not a company forecast.
+Netherlands,Upside,313.5,32.0,2.8,2.81,5.62,Synthetic planning scenario; not a company forecast.

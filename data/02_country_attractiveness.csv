@@ -1,0 +1,9 @@
+Country,EV_Registrations_2026,EV_Share_2026_Percent,Public_Chargers_2026,Charging_Density_per_1000_EV,Addressable_Market_2026_EUR_mn,Market_CAGR_2021_2026_Percent,Commercial_Ease_1_5,Competition_Intensity_1_5,Market_Size_Score,Growth_Score,Adoption_Score,Infrastructure_Score,Commercial_Ease_Score,Competition_Advantage_Score,Attractiveness_Score,Priority_Tier
+United Kingdom,681190,35.4,121603,178.5,648.9,19.3,4.4,4.2,94.5,62.2,20.1,0.0,75.0,25.0,57.6,Tier 1 - Focus
+Germany,675865,23.9,167941,248.5,676.7,16.4,4.6,4.5,100.0,49.0,3.8,7.6,100.0,6.2,56.8,Tier 1 - Focus
+France,602578,33.0,193682,321.4,625.5,18.7,4.2,4.0,89.9,59.3,16.7,15.6,50.0,37.5,54.1,Tier 1 - Focus
+Netherlands,178506,52.4,195568,1095.6,313.5,15.7,4.5,4.0,28.5,46.0,44.1,100.0,87.5,37.5,51.2,Tier 1 - Focus
+Spain,235119,24.5,68035,289.4,217.0,27.7,3.9,3.0,9.5,100.0,4.7,12.1,12.5,100.0,36.6,Tier 2 - Build
+Italy,338425,21.2,80528,237.9,301.5,22.8,3.8,3.2,26.1,78.0,0.0,6.5,0.0,87.5,32.8,Tier 2 - Build
+Sweden,221129,72.4,49382,223.3,218.0,12.4,4.1,3.8,9.7,30.9,72.3,4.9,37.5,50.0,31.0,Tier 2 - Build
+Norway,162592,92.0,39379,242.2,168.9,5.5,4.0,4.6,0.0,0.0,100.0,6.9,25.0,0.0,19.4,Tier 3 - Monitor
